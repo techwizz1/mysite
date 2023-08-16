@@ -14,9 +14,13 @@
     text-transform: uppercase;
 
 } 
-.nav-wrapper > .left-side{
+.nav-link-wrapper {
    height: 22px;
    border-bottom: 1px solid transparent;
    transition: border-bottom 0.5s;
-   
+
 } 
+
+.nav-wrapper a {
+
+}
