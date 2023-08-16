@@ -1,3 +1,14 @@
+/* Allows pictures to bud up against another (master styles) */
+body { 
+    margin:0px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+/* nav style */
+/* spaces out the content */
 .nav-wrapper{
     display: flex;
     justify-content: space-between;
@@ -36,3 +47,4 @@
 .nav-link-wrapper a :hover{
    color: black;
 }
+/*portfilo styles*/
