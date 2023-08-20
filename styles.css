@@ -20,7 +20,7 @@ body {
 }
 
 .nav-wrapper > .left-side > div{
-    margin-right: 10px; 
+    margin-right: 5px; 
     font-size: 0.9em;  
     text-transform: uppercase;
 
@@ -59,7 +59,7 @@ body {
 }
 .portfolio-img-background{
     height: 550px;
-    width: 75px;
+    width: 100%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
