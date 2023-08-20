@@ -84,3 +84,13 @@ body {
     width: 50;
     margin-bottom: 20px;
 }
+
+.img-text-wrapper:hoover .subtitle{ 
+    font-weight: 600;
+    color: lightseagreen;
+}
+
+.img-darken{
+    transition: 1s;
+    filter: brightness(100%);
+}
