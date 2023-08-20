@@ -58,8 +58,8 @@ body {
     position: relative;
 }
 .portfolio-img-background{
-    height: 350px;
-    width:100%;
+    height: 550px;
+    width: 75px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
