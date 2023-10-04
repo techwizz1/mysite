@@ -61,7 +61,7 @@ body {
 .portfolio-img-background{
     height: 350px;
     width: 90%;
-    background-size: cover;
+    background-size:contain;
     background-position: center;
     background-repeat: no-repeat;
 }
