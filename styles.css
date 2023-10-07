@@ -96,6 +96,7 @@ body {
 .img-text-wrapper:hover .subtitle{ 
     font-weight: 600;
     color: rgb(250, 6, 10);
+    font-size: medium;
 }
 
 .img-darken{
