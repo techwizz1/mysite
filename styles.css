@@ -97,12 +97,13 @@ body {
     font-weight: 600;
     color: rgb(250, 6, 10);
 }
+
 .img-darken{
     transition: 1s;
     filter: brightness(10%);
 }
-/*begining of contact section*/
 
+/*contact*/
 .contact{
     width:100%;
     height: 40vh;
@@ -144,7 +145,7 @@ body {
     height: 100%;
     background-color: #0b3954;
     border-radius: 0 2rem 2rem 0;
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
