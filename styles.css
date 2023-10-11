@@ -130,13 +130,13 @@ body {
 
 .content-left h2{
     width: 80%;
-    font-size: 2.2rem;
+    font-size:small;
     color: #fff;
     line-height: 1.4;
 }
 
 .content-left span{
-    font-size: 2.5rem;
+    font-size:small;
     color: #073e72;
 }
 
@@ -163,7 +163,7 @@ body {
 
 .content-right input::placeholder{
     color: #fff;
-    font-size: 1.4rem;
+    font-size:medium;
 }
 
 .content-right input:focus{
@@ -176,7 +176,7 @@ body {
     background-color: #f8872b;
     border: none;
     border-radius: 3rem;
-    font-size: 1.6rem;
+    font-size:medium;
     color: #fff;
     cursor: pointer;
 }
