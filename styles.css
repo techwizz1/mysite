@@ -20,6 +20,12 @@ body {
     display: flex;
 }
 
+.right-side{
+    font-size: x-large;
+    font-style: oblique;
+    color: rgb(250, 6, 230);
+}
+
 .nav-wrapper > .left-side > div{
     margin-right: 5px; 
     font-size: 0.9em;  
@@ -90,6 +96,7 @@ body {
     transition: 1s;
     font-weight: 800;
     color: transparent;
+    font-size: x-large;
 }
 
 
@@ -152,7 +159,7 @@ body {
 
 .content-right input{
     width: 25rem;
-    height: 1rem;
+    height: 0rem;
     background-color: #174b69;
     padding: 2rem;
     border: none;
