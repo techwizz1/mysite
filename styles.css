@@ -130,13 +130,13 @@ body {
 
 .content-left h2{
     width: 80%;
-    font-size:small;
+    font-size:x-large;
     color: #fff;
     line-height: 1.4;
 }
 
 .content-left span{
-    font-size:small;
+    font-size:large;
     color: #073e72;
 }
 
@@ -151,8 +151,8 @@ body {
 }
 
 .content-right input{
-    width: 35rem;
-    height: 4rem;
+    width: 31rem;
+    height: 1rem;
     background-color: #174b69;
     padding: 2rem;
     border: none;
@@ -171,14 +171,14 @@ body {
 }
 
 .content-right button{
-    width: 10rem;
-    height: 4rem;
+    width: 11rem;
+    height: 2rem;
     background-color: #f8872b;
     border: none;
     border-radius: 3rem;
     font-size:medium;
     color: #fff;
-    cursor: pointer;
+    cursor: cell;
 }
 /*end of contact*/
 
