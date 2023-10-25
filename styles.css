@@ -95,7 +95,7 @@ body {
 
 .img-text-wrapper:hover .subtitle{ 
     font-weight: 600;
-    color: rgb(250, 6, 10);
+    color: rgb(250, 6, 230);
 }
 
 .img-darken{
@@ -151,7 +151,7 @@ body {
 }
 
 .content-right input{
-    width: 31rem;
+    width: 25rem;
     height: 1rem;
     background-color: #174b69;
     padding: 2rem;
