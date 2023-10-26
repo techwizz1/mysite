@@ -95,7 +95,8 @@ body {
 }
 
 .img-text-wrapper .subtitle{ 
-    font-family: 'Rye', serif;    font-weight: 800;
+    font-family: 'Rye', serif;   
+    font-weight: 800;
     color: transparent;
     font-size: x-large;
 }
