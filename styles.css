@@ -21,7 +21,7 @@ body {
 }
 
 .brand{
-    font-size: x-large;
+    font-family: 'Nosifer', sans-serif;    font-size: x-large;
     font-style: oblique;
     color: rgb(250, 6, 230);
 }
