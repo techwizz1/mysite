@@ -95,7 +95,7 @@ body {
 }
 
 .img-text-wrapper .subtitle{ 
-    transition: 1s;
+    font-family: 'Monoton', sans-serif;    transition: 1s;
     font-weight: 800;
     color: transparent;
     font-size: x-large;
