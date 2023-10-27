@@ -25,7 +25,7 @@ body {
     font-family: 'Nosifer', sans-serif;    
     font-size: xx-large;
     font-style: oblique;
-    color: rgb(250, 6, 230);
+    color:  rgb(6, 250, 59);
 }
 
 .nav-wrapper > .left-side > div{
@@ -49,12 +49,12 @@ body {
 }
 
 .nav-link-wrapper:hover{
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #06f426;;
 
 }
 
 .nav-link-wrapper a :hover{
-   color: rgb(252, 0, 189);
+   color: #06f426;;
 }
 /*portfilo styles*/
 
@@ -104,7 +104,7 @@ body {
 
 .img-text-wrapper:hover .subtitle{ 
     font-weight: 600;
-    color: rgb(250, 6, 230);
+    color: rgb(6, 250, 59);
 }
 
 .img-darken{
@@ -182,7 +182,7 @@ body {
 .content-right button{
     width: 11rem;
     height: 2rem;
-    background-color:#e406f4;
+    background-color:#06f426;
     border: none;
     border-radius: 3rem;
     font-size:medium;
