@@ -146,7 +146,7 @@ body {
 
 .content-left span{
     font-size:large;
-    color: #073e72;
+    color: black;
 }
 
 .content-right{
@@ -162,7 +162,7 @@ body {
 .content-right input{
     width: 25rem;
     height: 0rem;
-    background-color: #174b69;
+    background-color: black;
     padding: 2rem;
     border: none;
     border-radius: .5rem;
@@ -182,7 +182,7 @@ body {
 .content-right button{
     width: 11rem;
     height: 2rem;
-    background-color:#696868d0;;
+    background-color:#e406f4;
     border: none;
     border-radius: 3rem;
     font-size:medium;
