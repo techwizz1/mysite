@@ -25,7 +25,7 @@ body {
     font-family: 'Nosifer', sans-serif;    
     font-size: xx-large;
     font-style: oblique;
-    color:rgb(0, 229, 50);
+    color:rgb(0, 235, 4);
 }
 
 .nav-wrapper > .left-side > div{
@@ -104,7 +104,7 @@ body {
 
 .img-text-wrapper:hover .subtitle{ 
     font-weight: 600;
-    color: rgb(1, 218, 48);
+    color: rgb(0, 235, 4);
 }
 
 .img-darken{
