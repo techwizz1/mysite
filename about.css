@@ -73,6 +73,7 @@ html{
     height: 55rem;
     background-color: #bbb;
     margin-right: 10rem;
+    position: relative;
 }
 
 .section-border::before{
