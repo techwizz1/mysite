@@ -16,12 +16,32 @@ html{
 /*container*/
 .container{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background: linear-gradient(#232932, #2c3138, #232932 );
 }
 
 /*landing */
-.dev
+.landing{
+    width: 100%;
+    height: 100%;
+}
+
+.section-bg-heading{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 30rem;
+}
+.dev-img-wrapper{
+    width: 60rem;
+    height: 60rem;
+}
+
+.dev-img-wrapper img{
+    width: 100%;
+    height: 100%;
+}
 /*End of landing */
 /*End of container*/
 
