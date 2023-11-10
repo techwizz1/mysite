@@ -69,7 +69,7 @@ html{
 }
 
 .section-border{
-    width: .3rem;
+    width: 0.3rem;
     height: 55rem;
     background-color: #bbb;
     margin-right: 10rem;
@@ -80,7 +80,7 @@ html{
     content: "";
     width: 3rem;
     height: 3rem;
-    border: .2rem solid #bbb;
+    border: 0.2rem solid #bbb;
     background-color: #1d222a;
     border-radius: 50%;
     position: absolute;
