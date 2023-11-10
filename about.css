@@ -121,12 +121,12 @@ html{
 .name span{
     color: #29a587;
 }
-.devolper-img-wrapper{
+.dev-img-wrapper{
     width: 60rem;
     height: 60rem;
 }
 
-.devolper-img-wrapper img{
+.dev-img-wrapper img{
     width: 100%;
     height: 100%;
 }
