@@ -20,6 +20,13 @@ html{
     height:100%;
     background: linear-gradient(#232932,#2c3138,#232932);
 } 
+/*navigation*/
+.navigation{
+    display: none;
+}
+/*End of navigation*/
+
+
 /*Landing*/
 .landing{
     width:100%;
@@ -70,6 +77,16 @@ html{
     background-color: #bbb;
     margin-right: 10rem;
 }
+
+.section-border::before{
+    content: "";
+    width: 3rem;
+    height: 3rem;
+    border: 0.2rem solid#bbb;
+    background-color: #1d222a;
+    position: absolute;
+}
+
 .dev-img-wrapper{
     width:60rem;
     height:60rem;
