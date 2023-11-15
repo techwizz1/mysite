@@ -32,7 +32,10 @@ html{
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
+    font-family: cursive;
     font-size: 30rem;
+    width: 100%;
+    text-align: center;
 }
 .dev-img-wrapper{
     width:60rem;
