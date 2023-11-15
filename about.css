@@ -32,10 +32,19 @@ html{
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    font-family: cursive;
+    font-family: ui-sans-serif;
     font-size: 30rem;
     width: 100%;
     text-align: center;
+    color: #31363d;
+    opacity:0.5;
+}
+
+.banner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
 .dev-img-wrapper{
     width:60rem;
