@@ -18,7 +18,7 @@ html{
 .container{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(#232932, #2c3138, #232932);
+    background: linear-gradient(#232932,#2c3138,#232932);
 } 
 
 /* End of Container*/
