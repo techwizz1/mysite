@@ -90,7 +90,7 @@ html{
     top: -3rem;
 }
 
-.section-border::before{
+.section-border::after{
     content: "";
     width: 3rem;
     height: 3rem;
@@ -110,6 +110,34 @@ html{
 }
 .greeting span{
     color: #29a857;
+}
+
+.name{
+    font-size: 10rem;
+    width: 60rem;
+    margin: 4rem 0 2rem 0;
+    color: #fff;
+    text-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+}
+.name span{
+    color: #29a857;
+}
+
+.prof{
+    font-size: 1.8rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 0.2rem;
+    margin-bottom: 60rem;
+}
+
+.prof span{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 1.2rem;
 }
 .dev-img-wrapper{
     width:60rem;
