@@ -102,6 +102,11 @@ html{
     bottom: 3rem;
 }
 
+.devolper-info{
+    margin-right: 15rem;
+
+}
+
 .greeting{
     font-size: 1.6rem;
     text-transform: uppercase;
@@ -166,7 +171,7 @@ html{
     height:60rem;
     background-color: #29a857;
     border-radius: 50%;
-    padding: 2rem 2rem 0 2rem;
+    padding: 11rem 10rem 109px 10rem;
     box-shadow: 0 1rem 1 rem rgba(0, 0, 0, 0.2);
     overflow: hidden;
 }
@@ -176,5 +181,19 @@ html{
     height:100%;
 }
 
+.dev-work{
+    width: 25rem;
+    height: 9rem;
+    background-color: #1d222a;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.4);
+}
 /*End of Landing*/
 /* End of Container*/
