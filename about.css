@@ -53,6 +53,20 @@ html{
     align-items: center;
     padding-left: 8rem;
 }
+
+.nav-items{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-items a{
+    font-size: 3rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    color: #eee;
+    margin: 1rem 0;
+}
 /*End of navigation*/
 
 
