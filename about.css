@@ -53,7 +53,7 @@ html{
     align-items: center;
     padding-left: 8rem;
     transform: rotateZ(-15deg);
-    transition: all.6s;
+    transition: all 0.6s;
 }
 
 .change.navigation{
