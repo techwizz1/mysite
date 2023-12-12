@@ -99,7 +99,7 @@ html{
     border-radius: 50%;
     position: absolute;
     left: -1.65rem;
-    bottom: 21rem;
+    bottom: 3rem;
 }
 
 .developer-info{
@@ -210,6 +210,17 @@ html{
 .dev-slogan{
     bottom: 1rem;
     right: -2rem;
+}
+
+.dev-work span:nth-child(1){
+    font-size: 3rem;
+    width: 50%;
+    text-align: center;
+}
+
+.dev-work span:nth-child(2){
+    color: #29a857;
+    width: 50%;
 }
 /*End of Landing*/
 /* End of Container*/
