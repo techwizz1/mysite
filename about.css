@@ -188,6 +188,7 @@ html{
     font-size: 1.4rem;
     text-transform: uppercase;
     color: #fff;
+    border: 0.2rem solid #bbb;
     border-radius: 6rem;
     display: flex;
     justify-content: center;
