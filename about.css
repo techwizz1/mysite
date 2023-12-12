@@ -75,7 +75,7 @@ html{
     width:.3rem;
     height:55rem;
     background-color: #bbb;
-    margin-right: 10rem;
+    margin-right: 2rem;
 }
 
 .section-border::before{
@@ -99,7 +99,7 @@ html{
     border-radius: 50%;
     position: absolute;
     left: -1.65rem;
-    bottom: 6rem;
+    bottom: 21rem;
 }
 
 .developer-info{
