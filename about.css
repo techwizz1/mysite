@@ -186,8 +186,8 @@ html{
 }
 
 .dev-work{
-    width: 31rem;
-    height: 9rem;
+    width: 45rem;
+    height: 6rem;
     background-color: #1d222a;
     font-size: 1.4rem;
     text-transform: uppercase;
@@ -219,8 +219,9 @@ html{
 }
 
 .dev-work span:nth-child(2){
-    color: #29a857;
-    width: 50%;
+   color: #29a857;
+   width: 50%;
 }
+
 /*End of Landing*/
 /* End of Container*/
