@@ -39,6 +39,14 @@ html{
     transition: border-bottom 0.5s;
     color: #29a857;
 } 
+
+.nav-items a {
+    color: #8a8a8A;
+    text-decoration: none;
+    transition: color 0.5s;
+
+}
+
 .nav-items:hover{
     border-bottom: 1px solid #04fc25;
 
