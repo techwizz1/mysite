@@ -22,12 +22,8 @@ html{
 } 
 /*navigation*/
 
-.navigation{
-    display: flex;
-    justify-content: space-between;
-    padding: 38px;
-}
-.navigation > .left-side > div{
+
+.nav-items > .left-side > div{
     margin-right: 5px; 
     font-size: 0.9em;  
     text-transform: uppercase;
