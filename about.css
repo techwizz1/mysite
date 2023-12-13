@@ -30,11 +30,23 @@ html{
 }
 
 .nav-items{
+    display: grid;
+    direction: rtl;
+    font-size: initial;
+    padding-right: 80px;
     height: 22px;
     border-bottom: 1px solid transparent;
     transition: border-bottom 0.5s;
+    color: #29a857;
 } 
+.nav-items:hover{
+    border-bottom: 1px solid #04fc25;
 
+}
+
+.nav-items a :hover{
+   color: #06f426;
+}
 /*End of navigation*/
 
 /*Landing*/
