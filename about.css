@@ -45,6 +45,7 @@ html{
     color: #8a8a8A;
     text-decoration: none;
     transition: color 0.5s;
+    cursor: -webkit-grab;
 
 }
 
